@@ -16,6 +16,7 @@ i'm student. i study IT.
 - Bootstrap
 - Sass
 - Java(basic)
+- C++(basic)
 
 ## Code examples
 [calcuator](https://github.com/Aytac222/html-css-js/tree/master/calculator)
